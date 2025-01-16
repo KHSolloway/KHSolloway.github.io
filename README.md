@@ -20,7 +20,7 @@ This repository will hold my assignments for this course.
 >
 2. [Love Cake](https://lovecakenc.com/)
 > This is my business website, which I created in Wix for my homebased wedding cake business.
-> This is how my interest in web design began. I see this as another creative outlet. I
+> This is how my interest in web design began, which I view as another creative outlet. I
 > would really love to improve on it, so I'm excited to learn more about web design and development
 > at Wake Tech.
 >
