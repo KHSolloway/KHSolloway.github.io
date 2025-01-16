@@ -34,9 +34,9 @@ This repository will hold my assignments for this course.
 > 
 * _**Bible Study**_  
 > As a Christian, I value Scripture and understanding it in its proper context. In the past two years or so, I have dedicated
-> a lot of time to reading the writings of the Reformers, such as Martin Luther, and also a variety of 17th-18th century theologians
+> a lot of time to reading the writings of the Reformers, such as Martin Luther, and also a variety of 18th-19th century theologians
 > who expound on reformed theology. I find that these earlier teachings offer greater, unadulterated biblical Truth versus
-> the majority of modern day Christian teachers.
+> the majority of modern day Christian teachings.
 
 ## My Favorite Websites
 1. [The Pioneer Woman](https://thepioneerwoman.com)  
