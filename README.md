@@ -14,7 +14,7 @@ This repository will hold my assignments for this course.
 * **_Cooking_**  
 > I really enjoy cooking and creating meals for my family and friends. My two best friends are my
 > Instapot and my Sous Vide machine. Both machines have changed the way I cook by speeding up the process
-> on those recipes that have long cook times. I utilize the **_Copy Me That_** app for housing my favorite
+> on those recipes that have long cook times. I utilize the _**Copy Me That**_ app for housing my favorite
 > recipes, creating menu plans and building shopping lists.
 
 * **_Wedding Cakes_**  
