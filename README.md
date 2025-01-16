@@ -22,6 +22,7 @@ This repository will hold my assignments for this course.
 > I love details, especially is French couture designs. In order to prevent myself from copying another cake designer, I look to
 > textiles, nature, jewelry, architecture and other artistic mediums for inspiration and design ideas. One of my favorite
 > techniques is painted buttercream. Here is a painted buttercream cake I made which is the inspiration for my company [logo](https://www.lovecakenc.com/?lightbox=dataItem-ljdinrh9):
+>
 > 
 > ![Love Cake Logo Inspiration](https://static.wixstatic.com/media/2b8d00_01f7ad2b402c4e1d9a2152258401d3e4~mv2.jpg/v1/crop/x_551,y_1623,w_2565,h_3405/fill/w_368,h_488,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/20170801_mangrum_cakes-0021-2_edited.jpg)
 
