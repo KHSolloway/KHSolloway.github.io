@@ -22,8 +22,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 // someone calls "get" on the server root "/"
 router.get('/', function(req, res){
     // It just returns a file to their browser 
-    // from the same directory it's in, called gradebook.html
-    res.sendFile(path.join(__dirname, 'gradebook.html'));
+    // from the same directory it's in, called KHSolloway_gradebook.html
+    res.sendFile(path.join(__dirname, 'KHSolloway_gradebook.html'));
 });
 
 app.use("/", router);
